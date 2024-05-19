@@ -1,4 +1,4 @@
-package com.axiagroups.daggerhilt.ui.theme
+package com.axiagroups.daggerhilt.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

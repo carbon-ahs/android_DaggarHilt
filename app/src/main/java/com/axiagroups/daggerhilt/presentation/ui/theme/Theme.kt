@@ -1,6 +1,5 @@
-package com.axiagroups.daggerhilt.ui.theme
+package com.axiagroups.daggerhilt.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
